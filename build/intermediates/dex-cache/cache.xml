@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\AndroidStudioProjects\TEMAN1\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TEMAN1\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_3170c11103c4204a53bfeff4a65e90e02d0d94cf\classes.dex" />
+    </item>
+
+</items>
